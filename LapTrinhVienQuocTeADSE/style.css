@@ -1,0 +1,148 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.nav-link{
+    font-weight: 600;
+    text-transform: uppercase !important;
+    margin: 10px;
+}
+.dropdown-item{
+    text-transform: uppercase !important;
+}
+
+.content .text-center{
+    margin-top: 40px;
+    font-size: 27px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+.card {
+    margin: 20px;
+    padding: 20px;
+}
+.card img{
+    width: 100%;
+}
+.slider{
+    padding-bottom: 30px;
+}
+.container .text-start{
+    font-weight: 700;
+    text-transform: uppercase;
+    font-size: 25px;
+    text-decoration: none solid rgb(0, 0, 0);
+}
+.content li{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 27px;
+}
+.content .form .text-center{
+    font-size: 23px;
+    font-weight: 700;
+    text-align: center;
+    color: white;
+}
+.content .form .text2{
+    text-align: center;
+    font-size: 17px;
+    font-weight: 500;
+    color: white;
+w
+}
+.content .form img{
+    width: 85%;
+    vertical-align: center;
+}
+.content .form{
+    background-color: #000D75;
+    margin-top: 50px;
+    padding: 20px;
+}
+.content .participants{
+    margin-bottom: 50px;
+}
+.content .participants .text-center{
+    font-weight: 700;
+    font-size: 25px;
+    padding: 20px;
+}
+.content .commit .text2{
+    text-align: center;
+    font-weight: 700;
+    font-size: 18px;
+    margin-bottom: 40px;
+}
+.content .commit .text-center{
+    font-size: 30px;
+    font-weight: 700;
+    color:#4D02AD
+}
+.content .program .text-center{
+    font-size: 30px;
+    font-weight: 700;
+}
+.content .program .text2{
+    text-align: center;
+    font-size: 22px;
+    font-weight: 600;
+}
+.content .program .fa-solid{
+    font-size: 40px;
+    
+}
+.content .program-about .sem1 img{
+    width: 85%;
+}
+.content .program-about .sem1-3{
+    background-color: #DBDEE0;
+}
+.content .program-about .sem1-3 h2{
+    margin-top: 50px;
+    color: black;
+    font-size: 25px;
+    font-weight: 700;
+}
+.content .program-about .sem1-3 .sem1-ul{
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.content .program-about .sem2-4 img{
+    width: 100%;
+}
+.content .program-about .sem2-4 h2{
+    margin-top: 50px;
+    color: black;
+    font-size: 25px;
+    font-weight: 700;
+}
+.content .program-about .sem2-4 .sem1-ul{
+    margin-top: 20px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.content .tution .text-center{
+    font-size: 25px;
+    font-weight: 600;
+}
+.content .form ul{
+    padding-top: 50px;
+    color: aliceblue;
+    list-style: none;
+    font-size: 16px;
+    font-weight: 500;
+    justify-content: center;
+}
+.container-fluid{
+    padding: 0;
+}
+.form-group{
+    height: 25px;
+    width: 300px;
+    margin-left: 340px;
+    margin-top: 20px;
+}
+
